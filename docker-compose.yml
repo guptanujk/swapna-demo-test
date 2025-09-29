@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  mysql-db:
+    image: mysql:8.0.33
+    container_name: mysql-db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_DATABASE: accelq_q_insurance
+      MYSQL_USER: teduser
+      MYSQL_PASSWORD: TedQ!ntelli!2022
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+    networks:
+      - accelq-net
+
+  backend:
+    build:
+      context: ./backend/demoqinsuranceapi-Q-Insurance-API
+      dockerfile: Dockerfile
+    container_name: backend-container
+    restart: always
+    ports:
+      - "3001:3001"
+    env_file:
+      - ./backend/demoqinsuranceapi-Q-Insurance-API/.env
+    depends_on:
+      - mysql-db
+    networks:
+      - accelq-net
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend-container
+    restart: always
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - accelq-net
+
+volumes:
+  mysql-data:
+
+networks:
+  accelq-net:
+    driver: bridge
+

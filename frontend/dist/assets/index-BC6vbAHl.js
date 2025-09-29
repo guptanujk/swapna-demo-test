@@ -1,0 +1,1 @@
+import{aw as a,ax as o}from"./index-BbDY3BAK.js";const t=new a,r={async policyCreate(s){return t.save("/policy/user/create",s).then(e=>e,e=>e.response)},async getPolicys(s){return t.save("/policy/list",s).then(e=>e,e=>e.response)},async raiseClaim(s){return t.save("/claim/create",s).then(e=>e,e=>e.response)}},c=()=>({policy:{}}),i=o("policy",{actions:r,state:c});export{i as u};
