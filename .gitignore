@@ -1,9 +1,0 @@
-# Ignore everything
-/*
-
-# But keep these
-!/frontend/
-!/backend/
-!/threetierapp/
-!/docker-compose.yml
-
