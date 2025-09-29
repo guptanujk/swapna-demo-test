@@ -1,4 +1,4 @@
-# 🚀 Q-Insurance App — Local Deployment Guide
+#  Q-Insurance App — Deployment Guide
 
 This project includes:
 
@@ -8,7 +8,7 @@ This project includes:
 
 ---
 
-## 📦 Tech Stack
+# Tech Stack
 
 | Component     | Version   | Description                          |
 |--------------|-----------|--------------------------------------|
@@ -20,7 +20,7 @@ This project includes:
 
 ---
 
-## 🔐 MySQL Credentials
+## MySQL Credentials
 
 ```env
 MYSQLHOST=mysql-db
@@ -28,13 +28,13 @@ MYSQLUSER=teduser
 MYSQLPASSWORD=TedQ!ntelli!2022
 MYSQLPORT=3306
 MYSQLDATABASE=accelq_q_insurance
-📧 SMTP Configuration
+SMTP Configuration
 env
 SMTPHOST=smtp.office365.com
 SMTPPORT=587
 SMTPUSERNAME=donotreply@qentelli.io
 SMTPPASSWORD="H7G##w(8aQdH@$%1qASb"
-🔐 Backend Environment Variables
+Backend Environment Variables
 env
 PORT=3001
 BASEURL=http://localhost:3001
@@ -47,12 +47,12 @@ JWTSECRETKEY=qentelli12345678
 ENCRYPTION_KEY=testqaencryption
 ENABLECOOKIE=true
 COOKIE_DOMAIN=localhost
-🌐 Frontend Environment Variable
+Frontend Environment Variable
 env
 VITE_API_BASE_URL=http://backend-container:3001
 Make sure this is set before building the frontend.
 
-🐳 Docker Setup
+Docker Setup
 Step 1: Install Docker & Docker Compose
 bash
 sudo apt update
@@ -81,7 +81,7 @@ Serve frontend on port 80
 
 Expose backend API on port 3001
 
-✅ Access Points
+Access Points
 Frontend: http://localhost
 
 Backend Health Check: http://localhost:3001/healthCheck
@@ -90,14 +90,14 @@ Login API: POST /api/user/login
 
 Forgot Password API: POST /api/user/forgotpassword (if implemented)
 
-🧪 Troubleshooting
+Troubleshooting
 If backend fails to connect to MySQL, wait a few seconds — it retries automatically
 
 If frontend shows blank or fails to fetch, check VITE_API_BASE_URL and rebuild
 
 Use docker logs backend-container to inspect backend errors
 
-📁 Repo Structure
+Repo Structure
 Code
 project-root/
 ├── docker-compose.yml
@@ -107,7 +107,8 @@ project-root/
 ├── frontend/
 │   └── Dockerfile
 ├── threetierapp/
-🛡️ Notes
+
+Notes
 Make sure .env files are present before building
 
 Sensitive credentials should be rotated before production deployment
