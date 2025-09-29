@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1759171020,,"wq!"
+|2,0,1759171365,,"wq!"
 :q!
 |2,0,1759163679,,"q!"
 
@@ -27,28 +27,32 @@
 # Registers:
 
 # File marks:
-'0  11  15  ~/.gitignore
-|4,48,11,15,1759171020,"~/.gitignore"
-'1  1  0  ~/.gitignore
-|4,49,1,0,1759171002,"~/.gitignore"
-'2  1  0  ~/.gitignore
-|4,50,1,0,1759171002,"~/.gitignore"
-'3  29  51  ~/docker-compose.yml
-|4,51,29,51,1759170685,"~/docker-compose.yml"
-'4  54  0  ~/docker-compose.yml
-|4,52,54,0,1759170616,"~/docker-compose.yml"
-'5  54  0  ~/docker-compose.yml
-|4,53,54,0,1759170616,"~/docker-compose.yml"
-'6  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
-|4,54,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
-'7  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,55,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
-'8  53  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,56,53,0,1759167816,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
-'9  28  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,57,28,0,1759167816,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
+'0  9  0  ~/.gitignore
+|4,48,9,0,1759171365,"~/.gitignore"
+'1  1  192  ~/.gitignore
+|4,49,1,192,1759171020,"~/.gitignore"
+'2  11  15  ~/.gitignore
+|4,50,11,15,1759171020,"~/.gitignore"
+'3  1  0  ~/.gitignore
+|4,51,1,0,1759171002,"~/.gitignore"
+'4  1  0  ~/.gitignore
+|4,52,1,0,1759171002,"~/.gitignore"
+'5  1  0  ~/.gitignore
+|4,53,1,0,1759171002,"~/.gitignore"
+'6  1  0  ~/.gitignore
+|4,54,1,0,1759171002,"~/.gitignore"
+'7  29  51  ~/docker-compose.yml
+|4,55,29,51,1759170685,"~/docker-compose.yml"
+'8  54  0  ~/docker-compose.yml
+|4,56,54,0,1759170616,"~/docker-compose.yml"
+'9  54  0  ~/docker-compose.yml
+|4,57,54,0,1759170616,"~/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  9  0  ~/.gitignore
+|4,39,9,0,1759171365,"~/.gitignore"
+-'  1  192  ~/.gitignore
+|4,39,1,192,1759171350,"~/.gitignore"
 -'  11  15  ~/.gitignore
 |4,39,11,15,1759171020,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -63,6 +67,14 @@
 |4,39,29,51,1759170685,"~/docker-compose.yml"
 -'  29  51  ~/docker-compose.yml
 |4,39,29,51,1759170685,"~/docker-compose.yml"
+-'  29  51  ~/docker-compose.yml
+|4,39,29,51,1759170685,"~/docker-compose.yml"
+-'  29  51  ~/docker-compose.yml
+|4,39,29,51,1759170685,"~/docker-compose.yml"
+-'  29  51  ~/docker-compose.yml
+|4,39,29,51,1759170685,"~/docker-compose.yml"
+-'  29  51  ~/docker-compose.yml
+|4,39,29,51,1759170685,"~/docker-compose.yml"
 -'  54  0  ~/docker-compose.yml
 |4,39,54,0,1759170645,"~/docker-compose.yml"
 -'  54  0  ~/docker-compose.yml
@@ -71,6 +83,22 @@
 |4,39,54,0,1759170645,"~/docker-compose.yml"
 -'  54  0  ~/docker-compose.yml
 |4,39,54,0,1759170645,"~/docker-compose.yml"
+-'  54  0  ~/docker-compose.yml
+|4,39,54,0,1759170645,"~/docker-compose.yml"
+-'  54  0  ~/docker-compose.yml
+|4,39,54,0,1759170645,"~/docker-compose.yml"
+-'  54  0  ~/docker-compose.yml
+|4,39,54,0,1759170645,"~/docker-compose.yml"
+-'  54  0  ~/docker-compose.yml
+|4,39,54,0,1759170645,"~/docker-compose.yml"
+-'  54  0  ~/docker-compose.yml
+|4,39,54,0,1759170616,"~/docker-compose.yml"
+-'  54  0  ~/docker-compose.yml
+|4,39,54,0,1759170616,"~/docker-compose.yml"
+-'  54  0  ~/docker-compose.yml
+|4,39,54,0,1759170616,"~/docker-compose.yml"
+-'  54  0  ~/docker-compose.yml
+|4,39,54,0,1759170616,"~/docker-compose.yml"
 -'  54  0  ~/docker-compose.yml
 |4,39,54,0,1759170616,"~/docker-compose.yml"
 -'  54  0  ~/docker-compose.yml
@@ -95,6 +123,54 @@
 |4,39,1,0,1759170610,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
 |4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1759170610,"~/docker-compose.yml"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
 -'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
 |4,39,7,17,1759168732,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
 -'  7  17  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
@@ -159,105 +235,31 @@
 |4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
 -'  23  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
 |4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  26  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,26,0,1759168351,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
--'  1  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile
-|4,39,1,0,1759168344,"~/backend/demoqinsuranceapi-Q-Insurance-API/Dockerfile"
+-'  23  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  23  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  23  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  23  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  23  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  23  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
+-'  23  0  ~/backend/demoqinsuranceapi-Q-Insurance-API/.env
+|4,39,23,0,1759168702,"~/backend/demoqinsuranceapi-Q-Insurance-API/.env"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1759171017	0
-	"	11	15
-	^	11	16
-	.	11	15
-	+	11	15
+	*	1759171362	0
+	"	9	0
+	^	9	0
+	.	8	20
+	+	1	177
+	+	1	131
+	+	8	20
 
 > ~/docker-compose.yml
 	*	1759170684	0

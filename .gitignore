@@ -1,11 +1,9 @@
-.bash_history
-        .bash_logout
-        .bashrc
-        .cache/
-        .node_repl_history
-        .npm/
-        .nvm/
-        .profile
-        .ssh/
-        .sudo_as_admin_successful
-        .viminfo
+# Ignore everything
+/*
+
+# But keep these
+!/frontend/
+!/backend/
+!/threetierapp/
+!/docker-compose.yml
+
