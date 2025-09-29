@@ -48,24 +48,18 @@ MySQL Port
 
 Internal DB access only
 
-🔐 MySQL Credentials
-
-MYSQLHOST=mysql-db
+🔐 MySQL CredentialsMYSQLHOST=mysql-db
 MYSQLUSER=teduser
 MYSQLPASSWORD=TedQ!ntelli!2022
 MYSQLPORT=3306
 MYSQLDATABASE=accelq_q_insurance
 
-📧 SMTP Configuration
-
-SMTPHOST=smtp.office365.com
+📧 SMTP ConfigurationSMTPHOST=smtp.office365.com
 SMTPPORT=587
 SMTPUSERNAME=donotreply@qentelli.io
 SMTPPASSWORD="H7G##w(8aQdH@$%1qASb"
 
-🔐 Backend Environment Variables
-
-PORT=3001
+🔐 Backend Environment VariablesPORT=3001
 BASEURL=http://localhost:3001
 FEBASEURL=http://localhost:5173
 NODE_PORT=3001
@@ -77,36 +71,18 @@ ENCRYPTION_KEY=testqaencryption
 ENABLECOOKIE=true
 COOKIE_DOMAIN=localhost
 
-🌐 Frontend Environment Variable
+🌐 Frontend Environment VariableVITE_API_BASE_URL=http://backend-container:3001Make sure this is set before building the frontend.
 
-VITE_API_BASE_URL=http://backend-container:3001
-
-Make sure this is set before building the frontend.
-
-🐳 Docker Setup
-
-Step 1: Install Docker & Docker Compose
-
-sudo apt update
+🐳 Docker SetupStep 1: Install Docker & Docker Composesudo apt update
 sudo apt install docker.io docker-compose -y
 sudo systemctl enable docker
-sudo systemctl start docker
-
-Verify installation:
-
-docker --version
+sudo systemctl start dockerVerify installation:docker --version
 docker-compose --version
 
-Step 2: Clone and Navigate
-
-git clone https://github.com/your-username/q-insurance-app.git
+Step 2: Clone and Navigategit clone https://github.com/your-username/q-insurance-app.git
 cd q-insurance-app
 
-Step 3: Launch the App
-
-docker-compose up --build -d
-
-This will:
+Step 3: Launch the Appdocker-compose up --build -dThis will:
 
 Build frontend and backend images
 
@@ -134,9 +110,7 @@ If frontend shows blank or fails to fetch, check VITE_API_BASE_URL and rebuild
 
 Use docker logs backend-container to inspect backend errors
 
-📁 Repo Structure
-
-project-root/
+📁 Repo Structureproject-root/
 ├── docker-compose.yml
 ├── backend/
 │   ├── Dockerfile
