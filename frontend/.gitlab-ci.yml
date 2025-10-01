@@ -1,0 +1,17 @@
+image: docker:latest
+
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Building and deploying frontend container..."
+    - docker build -t frontend-image .
+    - docker stop frontend-container || true
+    - docker rm frontend-container || true
+    - docker run -d \
+        --name frontend-container \
+        --network accelq-net \
+        -p 80:80 \
+        frontend-image
