@@ -1,0 +1,12 @@
+image: docker:latest
+
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  script:
+    - cd demoqinsuranceapi-Q-Insurance-API
+    - echo "Deploying backend and MySQL..."
+    - docker-compose down
+    - docker-compose up -d --build
